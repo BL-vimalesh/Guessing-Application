@@ -24,11 +24,4 @@ public class GuessingApp {
             if ("CORRECT".equals(result)) {
                 break;
             }
-            if(guess % 2 == 0){
-                System.out.println("Hint Number is Even");
-            }else if(guess % 2 != 0){
-                System.out.println("Hint Number is Odd");
-            }else{
-                System.out.println("No more hints available");
-            }
     }}}
