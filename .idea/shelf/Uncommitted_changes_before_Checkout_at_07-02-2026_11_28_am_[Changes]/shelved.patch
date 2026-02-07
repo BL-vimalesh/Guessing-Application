@@ -1,0 +1,15 @@
+Index: src/GuessingApp.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package src;\r\n\r\nimport java.util.Random;\r\n\r\n/**\r\n * Use Case 1: Game Initialization\r\n *\r\n * This class is responsible for:\r\n * - Setting game boundaries\r\n * - Generating a random target number\r\n * - Displaying game rules\r\n *\r\n * Demonstrates:\r\n * - Encapsulation\r\n * - Constructor initialization\r\n * - Random number generation\r\n */\r\nclass GameConfig {\r\n\r\n    // Game constants\r\n    private final int MIN = 1;\r\n    private final int MAX = 100;\r\n    private final int MAX_ATTEMPTS = 7;\r\n    private final int MAX_HINTS = 3;\r\n\r\n    // Randomly generated target number\r\n    private int targetNumber;\r\n\r\n    /**\r\n     * Constructor is automatically called when a GameConfig object is created.\r\n     * It initializes the random target number for the game.\r\n     */\r\n    public GameConfig() {\r\n        Random random = new Random();\r\n        this.targetNumber = random.nextInt(MAX - MIN + 1) + MIN;\r\n    }\r\n\r\n    // Getter for target number\r\n    public int getTargetNumber() {\r\n        return targetNumber;\r\n    }\r\n\r\n    // Getter for maximum attempts\r\n    public int getMaxAttempts() {\r\n        return MAX_ATTEMPTS;\r\n    }\r\n\r\n    // Getter for maximum hints\r\n    public int getMaxHints() {\r\n        return MAX_HINTS;\r\n    }\r\n\r\n    /**\r\n     * Displays the game rules to the player\r\n     */\r\n    public void showRules() {\r\n        System.out.println(\"\uD83C\uDFAF Guess a number between \" + MIN + \" and \" + MAX);\r\n        System.out.println(\"You have \" + MAX_ATTEMPTS + \" attempts.\");\r\n        System.out.println(\"Hints will be provided after wrong guesses.\\n\");\r\n    }\r\n}\r\n/**\r\n * GuessingApp – Use Case 1: Game Initialization\r\n *\r\n * This class serves as the application entry point.\r\n * It initializes the game configuration and displays game rules.\r\n *\r\n * No user input or gameplay logic is implemented at this stage.\r\n */\r\npublic class GuessingApp {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        // Welcome message\r\n        System.out.println(\"Welcome to the Guessing App\");\r\n\r\n        // Initialize game configuration\r\n        GameConfig gameConfig = new GameConfig();\r\n\r\n        // Display game rules\r\n        gameConfig.showRules();\r\n\r\n        // (For testing only – normally hidden)\r\n        // System.out.println(\"DEBUG Target Number: \" + gameConfig.getTargetNumber());\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/GuessingApp.java b/src/GuessingApp.java
+--- a/src/GuessingApp.java	(revision 1a432ff5fbb5c0a87dc4ba7fa7c59e519eb11d34)
++++ b/src/GuessingApp.java	(date 1770443644042)
+@@ -1,4 +1,3 @@
+-package src;
+ 
+ import java.util.Random;
+ 

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1b4a75c-c9f8-4ff6-b7e3-a86506356f3a" name="Changes" comment="Added Game Result Storage uc-5.">
+      <change beforePath="$PROJECT_DIR$/src/GuessingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuessingApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="features/uc1-GameConfig" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BL-vimalesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BL-vimalesh/Guessing-Application.git&quot;,
+    &quot;accountId&quot;: &quot;77b49b32-385e-4d13-902a-27af58e8a5d8&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39HmSRF5nruf12UVvGvKt1mfTKA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GuessAppMain.executor": "Run",
+    "Application.GuessingApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "features/uc1-GameConfig",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/personal/office/GuessApplication/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\personal\office\GuessApplication\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GuessingApp">
+    <configuration name="GuessingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingApp" />
+      <module name="GuessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GuessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuessingApp" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1b4a75c-c9f8-4ff6-b7e3-a86506356f3a" name="Changes" comment="" />
+      <created>1770361370197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770361370197</updated>
+      <workItem from="1770361372428" duration="12383000" />
+      <workItem from="1770442098818" duration="1738000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added dev code.">
+      <option name="closed" value="true" />
+      <created>1770361589267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770361589267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added GameConfig uc-1 code.">
+      <option name="closed" value="true" />
+      <created>1770361806483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770361806483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added GuessValidator uc-2 code.">
+      <option name="closed" value="true" />
+      <created>1770367526181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770367526181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Hintservice uc-3 code.">
+      <option name="closed" value="true" />
+      <created>1770368544996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770368544996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added  Error Handling &amp; Validation uc-4 code.">
+      <option name="closed" value="true" />
+      <created>1770371533029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770371533029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added  Hint Generation uc-3 code.">
+      <option name="closed" value="true" />
+      <created>1770371869973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770371869973</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added  Game Result Storage uc-5 code.">
+      <option name="closed" value="true" />
+      <created>1770372625243</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770372625243</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added  Game Result Storage uc-5 code.">
+      <option name="closed" value="true" />
+      <created>1770373211480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770373211480</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added   Game Restart &amp; Exit  uc-5 code.">
+      <option name="closed" value="true" />
+      <created>1770374679550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770374679550</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Game initialization uc-1.">
+      <option name="closed" value="true" />
+      <created>1770376110522</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770376110522</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added User guess Submission uc-2.">
+      <option name="closed" value="true" />
+      <created>1770376266493</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770376266493</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added User Hint Generation logic uc-3.">
+      <option name="closed" value="true" />
+      <created>1770376480445</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770376480445</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Error handling and validation uc-4.">
+      <option name="closed" value="true" />
+      <created>1770377441759</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1770377441759</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Game result Storage(File and Database) uc-5.">
+      <option name="closed" value="true" />
+      <created>1770377558894</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1770377558894</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added Game Restart and exit uc-6.">
+      <option name="closed" value="true" />
+      <created>1770377657220</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1770377657220</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added Game Result Storage uc-5.">
+      <option name="closed" value="true" />
+      <created>1770443122024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1770443122024</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added dev code." />
+    <MESSAGE value="Added GameConfig uc-1 code." />
+    <MESSAGE value="Added GuessValidator uc-2 code." />
+    <MESSAGE value="Added Hintservice uc-3 code." />
+    <MESSAGE value="Added  Error Handling &amp; Validation uc-4 code." />
+    <MESSAGE value="Added  Hint Generation uc-3 code." />
+    <MESSAGE value="Added  Game Result Storage uc-5 code." />
+    <MESSAGE value="Added   Game Restart &amp; Exit  uc-5 code." />
+    <MESSAGE value="Added Game initialization uc-1." />
+    <MESSAGE value="Added User guess Submission uc-2." />
+    <MESSAGE value="Added User Hint Generation logic uc-3." />
+    <MESSAGE value="Added Error handling and validation uc-4." />
+    <MESSAGE value="Added Game result Storage(File and Database) uc-5." />
+    <MESSAGE value="Added Game Restart and exit uc-6." />
+    <MESSAGE value="Added Game Result Storage uc-5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Game Result Storage uc-5." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
